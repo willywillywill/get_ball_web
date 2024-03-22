@@ -1,0 +1,22 @@
+body{
+    margin-left: 2vw;
+    margin-top: 2vh;
+}
+.map{
+    width: 96vw;
+    height: 60vh;
+}
+
+.bottom_block{
+    margin-top: 2vh;
+}
+.bottom_left_block{
+    width: 20vw;
+    height: 30vh;
+}
+.bottom_left_block_pos{
+    margin-top: 1vh;
+}
+.pos_input{
+    width: 10vw;
+}
